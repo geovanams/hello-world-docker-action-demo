@@ -1,5 +1,8 @@
 name: 'Hello World Docker Action -demo1'
 description: 'Say hello to a user or the world.'
+branding:
+  icon: 'alert-triangle'
+  color: 'red'
 inputs:
   who-to-greet:
     description: 'Who to greet'
